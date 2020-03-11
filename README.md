@@ -10,11 +10,11 @@
 ```
 pip install -U androguard
 ```
-... let's start reversing!
+... 让我们开始逆向!
 
 ## Features
 
-Androguard is a full python tool to play with Android files.
+Androguard是一个用来处理Android文件的完整python工具。
 
 * DEX, ODEX
 * APK
@@ -23,21 +23,21 @@ Androguard is a full python tool to play with Android files.
 * Disassemble DEX/ODEX bytecodes
 * Decompiler for DEX/ODEX files
 
-## Authors: Androguard Team
+## 作者: Androguard Team
 
 Androguard + tools: Anthony Desnos (desnos at t0t0.fr).
 
-DAD (DAD is A Decompiler): Geoffroy Gueguen (geoffroy dot gueguen at gmail dot com)
+DAD (DAD是一个反编译器): Geoffroy Gueguen (geoffroy dot gueguen at gmail dot com)
 
-## Documentation
+## 文档
 
-Find the documentation for master on [ReadTheDocs](http://androguard.readthedocs.io/en/latest/).
+在master的[ReadTheDocs](http://androguard.readthedocs.io/en/latest/)查找文档。 
 
-There are some (probably broken/outdated) examples and demos in the folders [demos](https://github.com/androguard/androguard/tree/master/demos) and [examples](https://github.com/androguard/androguard/tree/master/examples).
+在[demos]文件夹中有一些(probably broken/outdated)例子和demo。
+(https://github.com/androguard/androguard/tree/master/demos) and [examples](https://github.com/androguard/androguard/tree/master/examples).
 
-## Projects using Androguard
-In alphabetical order
-
+## Androguard使用的项目
+按字母顺序
 * [AndroPyTool](https://github.com/alexMyG/AndroPyTool)
 * [AppKnox](http://appknox.com)
 * [Cuckoo Sandbox](https://cuckoosandbox.org)
@@ -54,40 +54,4 @@ In alphabetical order
 * [Viper Framework](https://github.com/viper-framework/viper)
 * ... and many more!
 
-You are using Androguard and are not listed here? Just create a [ticket](https://github.com/androguard/androguard/issues) or send us a [pull request](https://github.com/androguard/androguard/pulls) with your project!
-
-## Licenses
-
-### Androguard
-
-Copyright (C) 2012 - 2016, Anthony Desnos (desnos at t0t0.fr)
-All rights reserved.
-
-Licensed under the Apache License, Version 2.0 (the "License");
-you may not use this file except in compliance with the License.
-You may obtain a copy of the License at
-
-     http://www.apache.org/licenses/LICENSE-2.0
-
-Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an "AS-IS" BASIS,
-WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-See the License for the specific language governing permissions and
-limitations under the License.
-
-### DAD
-
-Copyright (C) 2012 - 2016, Geoffroy Gueguen (geoffroy dot gueguen at gmail dot com)
-All rights reserved.
-
-Licensed under the Apache License, Version 2.0 (the "License");
-you may not use this file except in compliance with the License.
-You may obtain a copy of the License at
-
-     http://www.apache.org/licenses/LICENSE-2.0
-
-Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an "AS-IS" BASIS,
-WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-See the License for the specific language governing permissions and
-limitations under the License.
+你使用的Androguard在在这里没有被列出？创建一个[ticket](https://github.com/androguard/androguard/issues)或者给我们发送一个你的项目的[pull request](https://github.com/androguard/androguard/pulls)！
