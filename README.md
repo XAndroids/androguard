@@ -33,8 +33,7 @@ DAD (DAD是一个反编译器): Geoffroy Gueguen (geoffroy dot gueguen at gmail 
 
 在master的[ReadTheDocs](http://androguard.readthedocs.io/en/latest/)查找文档。 
 
-在[demos]文件夹中有一些(probably broken/outdated)例子和demo。
-(https://github.com/androguard/androguard/tree/master/demos) and [examples](https://github.com/androguard/androguard/tree/master/examples).
+在[demos](https://github.com/androguard/androguard/tree/master/demos)文件夹中有一些(probably broken/outdated)[例子](https://github.com/androguard/androguard/tree/master/examples)。
 
 ## Androguard使用的项目
 按字母顺序
